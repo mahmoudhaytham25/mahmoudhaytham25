@@ -1,6 +1,6 @@
 # Mahmoud Haytham Eid
 
-**AI, Full-Stack & DevOps Engineer** — Alexandria, Egypt
+**AI, Full-Stack & DevOps Engineer**
 
 I build LLM-powered applications, RAG pipelines, and AI agents — production-ready systems from React/Node.js frontends to Python AI backends, shipped with Docker, CI/CD, and AWS infrastructure-as-code.
 
