@@ -16,6 +16,7 @@ B.Sc. Computer & Communication Engineering, Alexandria University (AI concentrat
 | [**rss-social-automation-hitl**](https://github.com/mahmoudhaytham25/rss-social-automation-hitl) | n8n pipeline — RSS feeds → AI-personalized posts across platforms with Discord human-in-the-loop approval | n8n · Gemini/OpenRouter · Discord HITL |
 | [**computer-vision-projects**](https://github.com/mahmoudhaytham25/computer-vision-projects) | Six CV projects from first principles — classical OpenCV pipelines plus VGG-16, DenseNet-121, U-Net & YOLOv5s rebuilt in PyTorch | PyTorch · OpenCV · NumPy |
 | [**egyptian-arabic-asr**](https://github.com/mahmoudhaytham25/egyptian-arabic-asr) | Egyptian-Arabic speech-to-text — YouTube-scraped dataset pipeline (Spleeter + Whisper auto-labelling), wav2vec2 CTC fine-tuning, FastAPI serving | PyTorch · wav2vec2 · Whisper · FastAPI |
+| [**pattern-recognition-projects**](https://github.com/mahmoudhaytham25/pattern-recognition-projects) | HAM10000 skin-cancer classification + segmentation (multi-task ResNet-18/U-Net) and AdaIN neural style transfer in PyTorch & TensorFlow | PyTorch · TensorFlow · timm · scikit-learn |
 
 ## Stack
 
